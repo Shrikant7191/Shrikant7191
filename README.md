@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shrikant
 - 👀 I’m interested in ... Web devlopment 
-- 🌱 I’m currently learning ...CSS, java
+- 🌱 I’m currently learning ...CSS, java, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
